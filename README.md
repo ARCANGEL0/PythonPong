@@ -6,7 +6,7 @@ Jogo simples de ping pong escrito em Python utilizando Pygame para testes de def
 ## Utilização 
 
 
-> pip install -r requirements && python pythonPong.py
+> pip install -r requirements.txt && python pythonPong.py
 
 Run this command to install the necessary packages and run the game
 Execute este comando para instalar os pacotes necessários e iniciar o jogo
