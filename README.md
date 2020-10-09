@@ -1,6 +1,7 @@
 # PythonPong
 Simple ping pong game made in python with Pygame for simple AI definitions testing
-//////////////////////////////////////////////////////////////////////////////////
+
+
 Jogo simples de ping pong escrito em Python utilizando Pygame para testes de definiçes simples de AI em jogos.
 
 ## Utilização 
